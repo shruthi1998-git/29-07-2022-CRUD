@@ -1,0 +1,33 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "aryan",
+      "username":"raj",
+      "email":"aryanraj@gmail.com",
+      "phone":"12345678"
+
+    },
+    
+    {
+      "id": 2,
+      "name": "Tokyo",
+      "username":"raj",
+      "email":"Tokyoraj@gmail.com",
+      "phone":"56790809"
+
+    },
+  
+  
+  
+    {
+      "id": 3,
+      "name": "Rio",
+      "username":"raj",
+      "email":"Rioraj@gmail.com",
+      "phone":"78975434"
+
+    }
+  ]
+  
+}
